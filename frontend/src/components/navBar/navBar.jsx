@@ -2,7 +2,6 @@ import * as React from "react";
 import { AppBar } from "@mui/material"; 
 import { Toolbar } from "@mui/material";
 import { Typography } from "@mui/material";
-import { Button } from "@mui/material";
 
 
 const NavBar = () => {
@@ -15,7 +14,6 @@ const NavBar = () => {
             </Toolbar>
         </AppBar>
     )
-
 }
 
 
